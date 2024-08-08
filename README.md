@@ -1,4 +1,4 @@
-Este projeto envolve a utilização de um sistema de CRUD (Create, Read, Update, Delete). O objetivo é interagir com um banco de dados para gerenciar registros de usuários. 
+[Aula 02 | Android] Este projeto envolve a utilização de um sistema de CRUD (Create, Read, Update, Delete). O objetivo é interagir com um banco de dados para gerenciar registros de usuários. 
 As etapas principais do projeto são:
 
 Verificação dos Registros: Inicialmente, verifique os registros existentes no banco de dados. Esta etapa é crucial para entender o estado atual dos dados armazenados.
